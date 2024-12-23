@@ -1,0 +1,51 @@
+2024/12/20-15:30:36.021 5b40 Reusing MANIFEST C:\Users\naufa\ASSETS\CARLO_BOT\WABOT_CARLO\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/20-15:30:36.022 5b40 Recovering log #1107
+2024/12/20-15:30:36.096 5b40 Reusing old log C:\Users\naufa\ASSETS\CARLO_BOT\WABOT_CARLO\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001107.log 
+2024/12/20-15:30:37.861 1b0 Level-0 table #1119: started
+2024/12/20-15:30:37.885 1b0 Level-0 table #1119: 1046223 bytes OK
+2024/12/20-15:30:37.886 1b0 Delete type=0 #1107
+2024/12/20-15:30:37.887 1b0 Manual compaction at level-0 from '\x00\x86\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x87\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/20-15:30:39.238 8bc8 Compacting 1@1 + 8@2 files
+2024/12/20-15:30:39.341 8bc8 Generated table #1120@1: 85890 keys, 2236735 bytes
+2024/12/20-15:30:39.445 8bc8 Generated table #1121@1: 98131 keys, 2250109 bytes
+2024/12/20-15:30:39.543 8bc8 Generated table #1122@1: 68973 keys, 2374267 bytes
+2024/12/20-15:30:39.589 8bc8 Generated table #1123@1: 10778 keys, 2151811 bytes
+2024/12/20-15:30:39.624 8bc8 Generated table #1124@1: 516 keys, 2129783 bytes
+2024/12/20-15:30:39.690 8bc8 Generated table #1125@1: 25269 keys, 2196214 bytes
+2024/12/20-15:30:39.737 8bc8 Generated table #1126@1: 7126 keys, 2128816 bytes
+2024/12/20-15:30:39.836 8bc8 Generated table #1127@1: 105943 keys, 2194124 bytes
+2024/12/20-15:30:39.836 8bc8 Compacted 1@1 + 8@2 files => 17661859 bytes
+2024/12/20-15:30:39.848 8bc8 compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1109
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1110
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1111
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1112
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1113
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1114
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1115
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1116
+2024/12/20-15:30:39.849 8bc8 Delete type=2 #1119
+2024/12/20-15:32:57.634 1b0 Level-0 table #1129: started
+2024/12/20-15:32:57.661 1b0 Level-0 table #1129: 1685291 bytes OK
+2024/12/20-15:32:57.662 1b0 Delete type=0 #1118
+2024/12/20-15:33:06.788 8bc8 Compacting 1@1 + 8@2 files
+2024/12/20-15:33:06.863 8bc8 Generated table #1130@1: 86170 keys, 2234997 bytes
+2024/12/20-15:33:06.928 8bc8 Generated table #1131@1: 98034 keys, 2249296 bytes
+2024/12/20-15:33:06.978 8bc8 Generated table #1132@1: 69183 keys, 2374596 bytes
+2024/12/20-15:33:07.006 8bc8 Generated table #1133@1: 13047 keys, 2157397 bytes
+2024/12/20-15:33:07.018 8bc8 Generated table #1134@1: 506 keys, 2128756 bytes
+2024/12/20-15:33:07.061 8bc8 Generated table #1135@1: 22042 keys, 2191196 bytes
+2024/12/20-15:33:07.082 8bc8 Generated table #1136@1: 9974 keys, 2131279 bytes
+2024/12/20-15:33:07.150 8bc8 Generated table #1137@1: 98822 keys, 2248889 bytes
+2024/12/20-15:33:07.157 8bc8 Generated table #1138@1: 9605 keys, 195897 bytes
+2024/12/20-15:33:07.157 8bc8 Compacted 1@1 + 8@2 files => 17912303 bytes
+2024/12/20-15:33:07.158 8bc8 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1120
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1121
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1122
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1123
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1124
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1125
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1126
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1127
+2024/12/20-15:33:07.158 8bc8 Delete type=2 #1129

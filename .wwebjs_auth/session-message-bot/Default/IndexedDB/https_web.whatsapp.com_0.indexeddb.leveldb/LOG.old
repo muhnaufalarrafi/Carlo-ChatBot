@@ -1,0 +1,17 @@
+2024/12/20-15:30:35.978 4188 Reusing MANIFEST C:\Users\naufa\ASSETS\CARLO_BOT\WABOT_CARLO\.wwebjs_auth\session-message-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/20-15:30:35.978 4188 Recovering log #267
+2024/12/20-15:30:36.072 4188 Reusing old log C:\Users\naufa\ASSETS\CARLO_BOT\WABOT_CARLO\.wwebjs_auth\session-message-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000267.log 
+2024/12/20-15:30:37.848 837c Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/20-15:32:07.906 42ac Level-0 table #274: started
+2024/12/20-15:32:07.925 42ac Level-0 table #274: 1401937 bytes OK
+2024/12/20-15:32:07.927 42ac Delete type=0 #267
+2024/12/20-15:32:08.191 97b8 Compacting 1@1 + 3@2 files
+2024/12/20-15:32:08.287 97b8 Generated table #275@1: 75912 keys, 2240003 bytes
+2024/12/20-15:32:08.339 97b8 Generated table #276@1: 18906 keys, 2171517 bytes
+2024/12/20-15:32:08.397 97b8 Generated table #277@1: 59487 keys, 1361449 bytes
+2024/12/20-15:32:08.397 97b8 Compacted 1@1 + 3@2 files => 5772969 bytes
+2024/12/20-15:32:08.398 97b8 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/12/20-15:32:08.398 97b8 Delete type=2 #269
+2024/12/20-15:32:08.398 97b8 Delete type=2 #270
+2024/12/20-15:32:08.398 97b8 Delete type=2 #271
+2024/12/20-15:32:08.398 97b8 Delete type=2 #274
